@@ -52,3 +52,10 @@
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)&nbsp;
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
+
+### ⚙️ &nbsp;GitHub Analytics
+<p align="center">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lKaiser01l&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>  
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lKaiser01l&layout=compact&langs_count=8&theme=algolia"/>
+</p>
+
